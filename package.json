@@ -1,0 +1,23 @@
+{
+  "name": "video-stream",
+  "version": "1.0.0",
+  "description": "video-stream test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrevanhouttefr/nodejs-video-stream-test.git"
+  },
+  "author": "alexandre vanhoutte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrevanhouttefr/nodejs-video-stream-test/issues"
+  },
+  "homepage": "https://github.com/alexandrevanhouttefr/nodejs-video-stream-test#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
